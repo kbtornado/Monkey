@@ -2,4 +2,4 @@ language: java
 before_install:
  - chmod +x gradlew
 jdk:
-  - openjdk version "11.0.11"
+  - openjdk11
